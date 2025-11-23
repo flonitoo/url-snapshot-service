@@ -40,7 +40,8 @@ PostgreSQL 15
 
 1. Clone the repository:
 
-    git clone <your-repo-url>
+    git clone github.com/flonitoo/url-snapshot-service
+   
     cd url-snapshot-service
 
 3. Start the stack:

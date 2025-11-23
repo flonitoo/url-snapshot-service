@@ -57,11 +57,13 @@ postgres → internal network only
 -- How to Use
 
 Create a snapshot:
+
 curl -X POST http://localhost:5001/scrape \
   -H "Content-Type: application/json" \
   -d '{"url":"https://example.com"}'
 
 Retrieve snapshots:
+
 curl http://localhost:5000/snapshots
 
 ------------------------------------------------------------------------------------------------

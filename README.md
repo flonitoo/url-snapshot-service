@@ -29,9 +29,9 @@ Docker
 
 Docker Compose
 
-Python 3.10 (Flask, Requests, Psycopg2)
+Python 3.10
 
-Node.js 18 (Express, pg)
+Node.js 18
 
 PostgreSQL 15
 

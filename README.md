@@ -70,6 +70,9 @@ curl http://localhost:5000/snapshots
 -- Environment Variables
 
 DB_HOST=postgres
+
 DB_USER=user
+
 DB_PASS=pass
+
 DB_NAME=snapshots

@@ -39,11 +39,13 @@ PostgreSQL 15
 -- Running the Project
 
 1. Clone the repository:
-- git clone <your-repo-url>
-cd url-snapshot-service
 
-2. Start the stack:
-docker-compose up --build
+    git clone <your-repo-url>
+    cd url-snapshot-service
+
+3. Start the stack:
+
+    docker-compose up --build
 
 This launches:
 

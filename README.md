@@ -15,15 +15,15 @@ Everything runs locally through Docker Compose.
 
 scraper-service (Python + Flask):
 
-Accepts a URL, fetches the HTML, saves it in the database.
+  Accepts a URL, fetches the HTML, saves it in the database.
 
 api-service (Node.js + Express):
 
-Serves the stored snapshots over a REST API.
+  Serves the stored snapshots over a REST API.
 
 postgres (PostgreSQL 15):
 
-Persists snapshot data. Initialized automatically with schema.
+  Persists snapshot data. Initialized automatically with schema.
 
 ------------------------------------------------------------------------------------------------
 -- Tech Stack
